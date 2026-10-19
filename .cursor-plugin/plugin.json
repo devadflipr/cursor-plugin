@@ -1,0 +1,32 @@
+{
+  "name": "adflipr",
+  "displayName": "Adflipr",
+  "version": "1.0.0",
+  "description": "Ecommerce email marketing for Shopify and WooCommerce via MCP: campaigns, automations, popups, landing pages, performance, and sending domains.",
+  "author": {
+    "name": "Adflipr",
+    "email": "support@adflipr.com"
+  },
+  "homepage": "https://adflipr.com/",
+  "repository": "https://github.com/devadflipr/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "adflipr",
+    "email",
+    "marketing",
+    "shopify",
+    "woocommerce",
+    "mcp",
+    "campaigns",
+    "automations"
+  ],
+  "category": "integrations",
+  "tags": [
+    "mcp",
+    "email",
+    "ecommerce",
+    "marketing"
+  ],
+  "mcpServers": "./mcp.json"
+}
