@@ -1,8 +1,8 @@
 {
   "name": "adflipr",
   "displayName": "Adflipr",
-  "version": "1.0.0",
-  "description": "Ecommerce email marketing for Shopify and WooCommerce via MCP: campaigns, automations, popups, landing pages, performance, and sending domains.",
+  "version": "1.0.1",
+  "description": "Connect Cursor to Adflipr ecommerce email marketing (Shopify & WooCommerce) via remote MCP: search campaigns, automations, popups, and landing pages; read performance; create drafts; manage sending domains; schedule/send with confirmation.",
   "author": {
     "name": "Adflipr",
     "email": "support@adflipr.com"
